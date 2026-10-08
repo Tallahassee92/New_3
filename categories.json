@@ -1,0 +1,38 @@
+[
+    {
+        "name": "В мире",
+        "link": "/world/"
+    },
+    {
+        "name": "Культура",
+        "link": "/culture/"
+    },
+    {
+        "name": "Шоу-бизнес",
+        "link": "/showbiz/"
+    },
+    {
+        "name": "Спорт",
+        "link": "/sport/"
+    },
+    {
+        "name": "Экология",
+        "link": "/eco/"
+    },
+    {
+        "name": "Авто",
+        "link": "/auto/"
+    },
+    {
+        "name": "Мысли вслух",
+        "link": "/misli/"
+    },
+    {
+        "name": "Реклама",
+        "link": "/adv.html"
+    },
+    {
+        "name": "Контакты",
+        "link": "/index.php?do=feedback"
+    }
+]
